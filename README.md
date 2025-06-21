@@ -1,82 +1,75 @@
-<h1 align="center">Hey 👋, I'm Boobesh Kumar</h1>
+<!-- Hacker Banner -->
 <p align="center">
-  🚀 Full Stack Developer | 🔐 Cybersecurity Explorer | 🔗 Blockchain Learner  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Boobesh+Kumar+-+Engineering+Student+%7C+Full+Stack+Dev;Blockchain+Builder+%7C+Cyber+Warrior;Hack+the+Planet+%F0%9F%94%91+Open+Source+Contributor" alt="Boobesh Kumar - Banner" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif"/>
+  <img src="https://img.shields.io/badge/GSSoC-2024-Contributor-222831?style=for-the-badge&logo=hackthebox&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/Open%20Source%20-Enthusiast-393e46?style=for-the-badge&logo=github&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/Engineering-Student-212121?style=for-the-badge&logo=graduation-cap&logoColor=00ff88" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 👨‍💻 Passionate about **MERN stack development**
-- 🔐 Diving into **cybersecurity**: VAPT, Snort, Splunk
-- 🔗 Exploring the world of **blockchain + smart contracts**
-- 🎯 Building logic-first, cleanly architected backends
-
----
-
-## 🛠️ Tech Stack
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat)
-![Express](https://img.shields.io/badge/-Express-black?logo=express&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&style=flat)
-![WebSockets](https://img.shields.io/badge/-WebSockets-black?logo=socket.io&style=flat)
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat)
-![Snort](https://img.shields.io/badge/-Snort-F8981D?style=flat)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat)
+```
+$ whoami
+Boobesh Kumar
+[ Engineering Student | Full Stack Dev | Blockchain Builder | Cyber Warrior ]
+```
 
 ---
 
-## 🚀 Projects Showcase
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🔷 [**Splitly**](https://github.com/Boobeshkumar56/Splitly) | Node.js, MongoDB, JWT, Puppeteer | Group expense manager with smart settlements, PDF exports, RBAC, activity logs |
-| 💬 [**Let's Text**](https://github.com/Boobeshkumar56/Letstext) | MERN, Socket.IO | Realtime chat app with dynamic conversations |
-| 📡 [**Vialan**](https://github.com/Boobeshkumar56/Vialan) | WebSockets, WebRTC | Offline LAN communication, file transfer, device discovery |
-| 👩‍⚕️ [**FemmeCare**](https://github.com/Boobeshkumar56/Block-busters) | MERN, AI logic | Women's health tracker with AI-based cycle prediction |
-
----
-
-## 📈 My Learning Journey
+### 🥷 Skillset Visualization
 
 ```mermaid
-journey
-    title My Developer Journey
-    section 2023
-      HTML/CSS, JavaScript, Node.js: 5
-      MongoDB, Express: 4
-    section 2024
-      MERN Projects, WebSockets, Blockchain: 4
-      Cybersecurity Basics, VAPT: 3
-    section 2025
-      RBAC, PDF Exports, Snort, Splunk: 4
-      Fullstack with Realtime Apps: 5
-🔐 Cybersecurity Domains (Skill Radar Preview)
-Security Operations • Incident Response • Red Teaming • Penetration Testing • Exploitation
-
-<img src="https://raw.githubusercontent.com/Boobeshkumar56/assets/main/cyber-skill-radar.png" width="450" alt="Cyber Radar Chart" />
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Boobeshkumar56&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Boobeshkumar56&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boobeshkumar56&layout=compact&theme=tokyonight" /> </p>
-📬 Let’s Connect
-
-
-"I build backends like wiring a circuit — everything connected, everything matters."
-
-yaml
-Copy
-Edit
+pie
+    title Tech Skillset
+    "Frontend Dev" : 20
+    "Backend Dev" : 22
+    "Cybersecurity" : 18
+    "Blockchain" : 17
+    "UI/UX" : 10
+    "DevOps & Tools" : 8
+    "Student Life" : 25
+```
 
 ---
 
-✅ Want:
-- A **custom banner** for this?
-- That cyber radar generated as a **GIF**?
-- Help deploying it with GitHub Pages?
+### 🚩 Featured Projects
 
-Just say the word!
+| Project        | Preview | Description |
+| -------------- | ------- | ----------- |
+| 🧑‍💬 **Let's Text** | <img src="https://img.shields.io/badge/MERN-Chat-blue?style=flat-square" /> | Real-time chat app using React, Node, Socket.IO, MongoDB |
+| 🛠️ **Vialan** | <img src="https://img.shields.io/badge/LAN-Tools-green?style=flat-square" /> | Toolbox for file transfer, device scan, chat, WebRTC meetings |
+| 👩‍⚕️ **FemmeCare** | <img src="https://img.shields.io/badge/AI-Health-pink?style=flat-square" /> | AI-powered women's health tracker with ML predictions |
+
+---
+
+### 💡 About Me
+
+- 🎓 Engineering Student passionate about tech and open source
+- 🛡️ Building secure & scalable full-stack apps
+- 🦾 Exploring SOC, SIEMs, threat hunting, and bug bounty
+- 💻 Active OSS contributor via GSSoC 2024!
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/boobeshkumar56"><img src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=00ff88" /></a>
+  <a href="mailto:boobeshkumar56@gmail.com"><img src="https://img.shields.io/badge/Gmail-212121?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
+</p>
+
+---
+
+### 🧩 Fun Fact
+
+`I automate my ideas into products and secure them before anyone else breaks in... 👨‍💻🔐`
+
+---
+
+<!-- Hacker terminal style footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
